@@ -6,7 +6,7 @@
 #### 6
 #### 7 My good friend here wants an almond crossiant
 #### 8
-#### 9 When she doesn't get her crossiant
+#### 9 GitHub is awesome
 #### 10
 #### 11
 #### 12
